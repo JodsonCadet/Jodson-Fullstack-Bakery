@@ -1,0 +1,53 @@
+p.brand {
+    color: Brown;
+    font-size: 30px;
+}
+.navigation {
+    display: flex;
+    gap: 1ch;
+    
+} 
+aside {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+     width: 120px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+}
+ul {
+    background-color: #9caf88
+}
+li {
+    color: brown;
+    font-weight: bold;  
+}
+
+
+ .main {
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh; 
+}
+main {
+    display:flex
+
+}
+.testimonial {
+    background-color: blanchedalmond;
+
+}
+.flexchild {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+footer  { 
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color:#8B8000 ;
+    text-align: center;
+}
