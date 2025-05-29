@@ -18,11 +18,14 @@ aside {
     padding: 20px;
 }
 ul {
-    background-color: #9caf88
+    /*background-color: #9caf88*/
 }
 li {
-    color: brown;
+    color: white;
     font-weight: bold;  
+    border: 3px solid;
+    background-color: darkred;
+    
 }
 
 
